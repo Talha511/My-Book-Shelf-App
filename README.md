@@ -1,4 +1,4 @@
-# 🖼️ My Book Shelf App (Created By: Talha Shafique)
+# 📚 My Book Shelf App (Created By: Talha Shafique)
 Premium Digital Library & Book Management App
 
 <p align="center">
