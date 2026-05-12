@@ -1,6 +1,10 @@
 # 🖼️ My Book Shelf App (Created By: Talha Shafique)
 Premium Digital Library & Book Management App
 
+<p align="center">
+  <img src="app_screenshots/0.png" alt="App Banner" width="100%">
+</p>
+
 ## 📦 Description My Book Shelf App
 My Book Shelf App is a modern, elegant, and user-friendly digital library application designed for book lovers who want to organize and manage their personal book collections efficiently. Built using Flutter & Dart, the app delivers a smooth and visually appealing experience where users can track books, categorize reading progress, and maintain a beautifully organized virtual bookshelf. The app focuses on simplicity, productivity, and premium UI/UX design, allowing users to explore their collection effortlessly with fluid navigation and clean layouts. Users can add books, manage reading statuses, save favorites, and access detailed book information in one centralized platform. My Book Shelf App transforms traditional book management into a smart and immersive digital experience.
 
