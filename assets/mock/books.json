@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever.",
+    "rating": 4.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602190153i/52578297.jpg",
+    "category": "Fiction",
+    "content": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived. To see how things would be if you had made other choices... Would you have done anything different, if you had the chance to undo your regrets?"
+  },
+  {
+    "id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "No matter your goals, Atomic Habits offers a proven framework for improving--every day.",
+    "rating": 4.8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/33124137.jpg",
+    "category": "Self-Help",
+    "content": "Tiny Changes, Remarkable Results. An atomic habit is a regular practice or routine that is not only small and easy to do but also the source of incredible power; a component of the system of compound growth."
+  },
+  {
+    "id": "3",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "description": "Ryland Grace is the sole survivor on a desperate, last-chance mission.",
+    "rating": 4.7,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597655881i/54493401.jpg",
+    "category": "Sci-Fi",
+    "content": "I'm in a room. It's round. I'm lying on a bed. There are tubes going into me. I don't know who I am. I don't know where I am. But I know I'm a scientist. And I know I have to save the world."
+  },
+  {
+    "id": "4",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides.",
+    "rating": 4.2,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+    "category": "Sci-Fi",
+    "content": "A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows. To begin your study of the life of Muad'Dib, then, first place him in his time: born in the 57th year of the Padishah Emperor, Shaddam IV."
+  },
+  {
+    "id": "5",
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "description": "Doing well with money isn’t necessarily about what you know. It’s about how you behave.",
+    "rating": 4.6,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592541101i/54143224.jpg",
+    "category": "Finance",
+    "content": "Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people."
+  },
+  {
+    "id": "6",
+    "title": "Ikigai",
+    "author": "Héctor García",
+    "description": "The Japanese secret to a long and happy life. It's about finding your purpose.",
+    "rating": 4.4,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512461933i/36739320.jpg",
+    "category": "Self-Help",
+    "content": "In Japanese, ikigai is written by combining iki, which means life, with gai, which means to be worthwhile."
+  },
+  {
+    "id": "7",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "Combining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery.",
+    "rating": 4.9,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/11235.jpg",
+    "category": "Fiction",
+    "content": "The boy's name was Santiago. He was a shepherd. He loved his sheep, but he also loved to travel. He had a dream about a treasure in the Pyramids of Egypt."
+  },
+  {
+    "id": "8",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "description": "A groundbreaking tour of the mind and explains the two systems that drive the way we think.",
+    "rating": 4.1,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg",
+    "category": "Psychology",
+    "content": "System 1 is fast, instinctive and emotional; System 2 is slower, more deliberative and logical."
+  },
+  {
+    "id": "9",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "description": "Deep work is the ability to focus without distraction on a cognitively demanding task.",
+    "rating": 4.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447957962i/25744928.jpg",
+    "category": "Self-Help",
+    "content": "Deep work is becoming increasingly rare and at the same time increasingly valuable in our economy."
+  },
+  {
+    "id": "10",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "description": "Born to survivalists in the mountains of Idaho, Tara Westover was seventeen the first time she set foot in a classroom.",
+    "rating": 4.7,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506026635i/35133922.jpg",
+    "category": "Biography",
+    "content": "My strongest memory is not a memory. It's something I imagined, then came to remember as if it had happened."
+  },
+  {
+    "id": "11",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "description": "Alicia Berenson’s life is seemingly perfect.",
+    "rating": 4.3,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg",
+    "category": "Thriller",
+    "content": "Alicia Berenson was thirty-three years old when she killed her husband. They had been married for seven years."
+  },
+  {
+    "id": "12",
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "description": "For years, rumors of the 'Marsh Girl' have haunted Barkley Cove.",
+    "rating": 4.6,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135632i/36809135.jpg",
+    "category": "Fiction",
+    "content": "Marsh is not swamp. Marsh is a space of light, where grass grows in water, and water flows into the sky."
+  },
+  {
+    "id": "13",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees.",
+    "rating": 4.8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436202607i/3735293.jpg",
+    "category": "Tech",
+    "content": "The only way to go fast is to go well. Every time you write a line of code, you are communicating with your future self and your colleagues."
+  },
+  {
+    "id": "14",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "description": "One of the most significant books in my professional life.",
+    "rating": 4.9,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401432508i/4099.jpg",
+    "category": "Tech",
+    "content": "Care about your craft. Why spend your life developing software unless you care about doing it well?"
+  },
+  {
+    "id": "15",
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "description": "How great leaders inspire everyone to take action.",
+    "rating": 4.2,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360936433i/7108725.jpg",
+    "category": "Business",
+    "content": "People don't buy what you do; they buy why you do it. And what you do simply proves what you believe."
+  },
+  {
+    "id": "16",
+    "title": "Originals",
+    "author": "Adam Grant",
+    "description": "How Non-Conformists Move the World.",
+    "rating": 4.3,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446700057i/25883848.jpg",
+    "category": "Business",
+    "content": "Originality is not a fixed trait. It is a choice."
+  },
+  {
+    "id": "17",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life.",
+    "rating": 4.8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
+    "category": "Fantasy",
+    "content": "In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort."
+  },
+  {
+    "id": "18",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "The Lord of the Rings is an epic high-fantasy novel.",
+    "rating": 4.9,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/34.jpg",
+    "category": "Fantasy",
+    "content": "Three Rings for the Elven-kings under the sky, Seven for the Dwarf-lords in their halls of stone, Nine for Mortal Men doomed to die, One for the Dark Lord on his dark throne In the Land of Mordor where the Shadows lie."
+  },
+  {
+    "id": "19",
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "description": "The first novel in Isaac Asimov's classic science-fiction masterpiece.",
+    "rating": 4.2,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417900844i/29579.jpg",
+    "category": "Sci-Fi",
+    "content": "Hari Seldon was the man who created the science of psychohistory."
+  },
+  {
+    "id": "20",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "Among the seminal texts of the 20th century.",
+    "rating": 4.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532714506i/40961427.jpg",
+    "category": "Dystopian",
+    "content": "It was a bright cold day in April, and the clocks were striking thirteen."
+  },
+  {
+    "id": "21",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+    "rating": 4.4,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+    "category": "Classic",
+    "content": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since."
+  },
+  {
+    "id": "22",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it.",
+    "rating": 4.8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+    "category": "Classic",
+    "content": "When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow."
+  },
+  {
+    "id": "23",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "A vision of a future society where people are genetically engineered and kept in a state of superficial happiness.",
+    "rating": 4.1,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523095144i/5129.jpg",
+    "category": "Dystopian",
+    "content": "A squat grey building of only thirty-four stories. Over the main entrance the words, CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE, and, in a shield, the World State's motto, COMMUNITY, IDENTITY, STABILITY."
+  },
+  {
+    "id": "24",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "The story of Holden Caulfield, a teenage boy who has been expelled from his prep school.",
+    "rating": 4.0,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+    "category": "Classic",
+    "content": "If you really want to hear about it, the first thing you'll probably want to know is where I was born, and what my lousy childhood was like."
+  },
+  {
+    "id": "25",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "description": "A brief history of humankind.",
+    "rating": 4.6,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590321849i/23692271.jpg",
+    "category": "History",
+    "content": "About 13.5 billion years ago, matter, energy, time and space came into being in what is known as the Big Bang."
+  },
+  {
+    "id": "26",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "description": "An ancient Chinese military treatise dating from the Late Spring and Autumn Period.",
+    "rating": 4.3,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630683326i/10534.jpg",
+    "category": "Philosophy",
+    "content": "The art of war is of vital importance to the State."
+  },
+  {
+    "id": "27",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "The story of Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who formulates a plan to kill an unscrupulous pawnbroker for her money.",
+    "rating": 4.7,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg",
+    "category": "Classic",
+    "content": "On an exceptionally hot evening early in July a young man came out of the garret in which he lodged in S. Place and walked slowly, as though in hesitation, towards K. bridge."
+  },
+  {
+    "id": "28",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival.",
+    "rating": 4.9,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419333i/4069.jpg",
+    "category": "Psychology",
+    "content": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
+  },
+  {
+    "id": "29",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "description": "Narrated by Death, this is the story of Liesel Meminger, a young girl living in Germany during World War II.",
+    "rating": 4.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063.jpg",
+    "category": "Historical Fiction",
+    "content": "First the colors. Then the humans. That's usually how I see things. Or at least, how I try."
+  },
+  {
+    "id": "30",
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "description": "Why we do what we do in life and business.",
+    "rating": 4.4,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545854312i/12609433.jpg",
+    "category": "Self-Help",
+    "content": "Habits, scientists say, emerge because the brain is constantly looking for ways to save effort."
+  },
+  {
+    "id": "31",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "The story of Elizabeth Bennet and her sisters, and their pursuit of marriage and social status.",
+    "rating": 4.6,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+    "category": "Classic",
+    "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+  },
+  {
+    "id": "32",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "A young prince who travels from planet to planet, learning about the nature of humanity.",
+    "rating": 4.8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993.jpg",
+    "category": "Fable",
+    "content": "Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest."
+  },
+  {
+    "id": "33",
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "description": "The personal writings of the Roman Emperor Marcus Aurelius, offering his reflections on Stoic philosophy.",
+    "rating": 4.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg",
+    "category": "Philosophy",
+    "content": "From my grandfather Verus, a kindly disposition and sweetness of temper."
+  },
+  {
+    "id": "34",
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen Covey",
+    "description": "A holistic, integrated, principle-centered approach for solving personal and professional problems.",
+    "rating": 4.3,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421842784i/36072.jpg",
+    "category": "Self-Help",
+    "content": "Our character is basically a composite of our habits. 'Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,' the maxim goes."
+  },
+  {
+    "id": "35",
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "description": "Notes on startups, or how to build the future.",
+    "rating": 4.2,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414347376i/18050143.jpg",
+    "category": "Business",
+    "content": "Every moment in business happens only once. The next Bill Gates will not build an operating system."
+  },
+  {
+    "id": "36",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "description": "How today's entrepreneurs use continuous innovation to create radically successful businesses.",
+    "rating": 4.1,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629999184i/10127019.jpg",
+    "category": "Business",
+    "content": "The Lean Startup method is not just about how to create a more successful business; it's about what we can learn from those successes."
+  },
+  {
+    "id": "37",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "description": "What the rich teach their kids about money that the poor and middle class do not!",
+    "rating": 4.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584481050i/6957.jpg",
+    "category": "Finance",
+    "content": "I had two fathers, a rich one and a poor one. One was highly educated and intelligent; he had a Ph.D."
+  },
+  {
+    "id": "38",
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "description": "The story of success and why some people achieve so much more than others.",
+    "rating": 4.4,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg",
+    "category": "Psychology",
+    "content": "It is not the brightest who succeed. Nor is success simply the sum of the decisions and efforts we make on our own behalf."
+  },
+  {
+    "id": "39",
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "description": "The fates of human societies.",
+    "rating": 4.3,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453215833i/1842.jpg",
+    "category": "History",
+    "content": "Why did history unfold differently on different continents?"
+  },
+  {
+    "id": "40",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "description": "A brilliant redirection of our view of ourselves.",
+    "rating": 4.2,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366758096i/61535.jpg",
+    "category": "Science",
+    "content": "We are survival machines—robot vehicles blindly programmed to preserve the selfish molecules known as genes."
+  },
+  {
+    "id": "41",
+    "title": "Urdu Adab ki Mukhtasir Tareekh",
+    "author": "Dr. Anwar Sadeed",
+    "description": "A brief history of Urdu literature.",
+    "rating": 4.6,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-7-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "History",
+    "content": "اردو ادب کی تاریخ بہت وسیع ہے۔ اس میں مختلف ادوار اور تحریکات شامل ہیں۔"
+  },
+  {
+    "id": "42",
+    "title": "Bang-e-Dara",
+    "author": "Allama Iqbal",
+    "description": "The first philosophical poetry book of Allama Iqbal.",
+    "rating": 5.0,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3H-6q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Poetry",
+    "content": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے\nخدا بندے سے خود پوچھے بتا تیری رضا کیا ہے"
+  },
+  {
+    "id": "43",
+    "title": "Peer-e-Kamil",
+    "author": "Umera Ahmed",
+    "description": "A beautiful story of faith and love.",
+    "rating": 4.9,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Fiction",
+    "content": "یہ کہانی ہے سالار سکندر اور امامہ ہاشم کی۔ ایمان کا سفر اور رب کی تلاش۔"
+  },
+  {
+    "id": "44",
+    "title": "Jannat Kay Pattay",
+    "author": "Nemrah Ahmed",
+    "description": "A novel that explores various aspects of life and spirituality.",
+    "rating": 4.8,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Fiction",
+    "content": "حیا سلیمان اور جہان سکندر کی ایک انوکھی داستان۔"
+  },
+  {
+    "id": "45",
+    "title": "Aab-e-Hayat",
+    "author": "Umera Ahmed",
+    "description": "Sequel to Peer-e-Kamil.",
+    "rating": 4.9,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Fiction",
+    "content": "زندگی اور موت کے درمیان کا وہ سفر جہاں ابدی زندگی کی تلاش ختم ہوتی ہے۔"
+  },
+  {
+    "id": "46",
+    "title": "The Road to Mecca",
+    "author": "Muhammad Asad",
+    "description": "The story of Leopold Weiss and his journey to Islam.",
+    "rating": 4.7,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Biography",
+    "content": "My journey from Europe to the heart of the Islamic world was not just a physical one, but a spiritual awakening."
+  },
+  {
+    "id": "47",
+    "title": "Reclaim Your Heart",
+    "author": "Yasmin Mogahed",
+    "description": "Personal insights on breaking free from life's shackles.",
+    "rating": 4.8,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Self-Help",
+    "content": "Our hearts were made to be filled with God, not with the fleeting things of this world."
+  },
+  {
+    "id": "48",
+    "title": "Discovering Islam",
+    "author": "Akbar S. Ahmed",
+    "description": "Sayings of the Holy Prophet (PBUH) and reflections on Islamic history.",
+    "rating": 4.5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1-M5q-Y6_9zL7vYm2Zq9f1L1n1L1n1L1n&usqp=CAU",
+    "category": "Religion",
+    "content": "Understanding the complex history and rich culture of the Islamic world."
+  },
+  {
+    "id": "49",
+    "title": "The Forty Rules of Love",
+    "author": "Elif Shafak",
+    "description": "A novel within a novel about Rumi and Shams of Tabriz.",
+    "rating": 4.7,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483501700i/6642715.jpg",
+    "category": "Fiction",
+    "content": "Every true love and friendship is a story of unexpected transformation."
+  },
+  {
+    "id": "50",
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "description": "A collection of poetic essays that are philosophical, spiritual, and, above all, inspirational.",
+    "rating": 4.8,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355046204i/2547.jpg",
+    "category": "Poetry",
+    "content": "Almustafa, the chosen and the beloved, who was a dawn unto his own day, had waited twelve years in the city of Orphalese for his ship that was to return and bear him back to the isle of his birth."
+  }
+]
